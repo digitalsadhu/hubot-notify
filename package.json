@@ -1,7 +1,7 @@
 {
-  "name": "module-name",
+  "name": "hubot-notify",
   "version": "0.0.1",
-  "description": "<description>",
+  "description": "request wrapper to make notifying hubot easier",
   "main": "index.js",
   "scripts": {
     "test": "mocha --reporter=spec test",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:<username>/<reponame>.git"
+    "url": "git@github.com:digitalsadhu/hubot-notify.git"
   },
   "keywords": [
     ""
@@ -17,9 +17,9 @@
   "author": "<name> <<email>>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/<username>/<reponame>/issues"
+    "url": "https://github.com/digitalsadhu/hubot-notify/issues"
   },
-  "homepage": "https://github.com/<username>/<reponame>",
+  "homepage": "https://github.com/digitalsadhu/hubot-notify",
   "devDependencies": {
     "chai": "*",
     "jshint": "^2.5.1",
