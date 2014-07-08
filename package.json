@@ -24,5 +24,8 @@
     "chai": "*",
     "jshint": "^2.5.1",
     "mocha": "*"
+  },
+  "dependencies": {
+    "request": "^2.37.0"
   }
 }
